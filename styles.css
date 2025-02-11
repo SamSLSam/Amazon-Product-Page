@@ -1,0 +1,46 @@
+.body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.br {
+    margin: auto;
+    justify-content: center;
+    color: black;
+    border-radius: 1px;
+	border: 2px solid black
+}
+
+.title {
+    font-weight: lighter;
+}
+
+.left {
+    display: flex;
+}
+
+.right {
+    justify-content: center;
+    margin-left: 25px;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+}
+
+.p{
+    font-weight:normal;
+    font-size: smaller;
+    padding-top: auto;
+    padding-bottom: auto;
+    justify-content: space-between;
+margin-top: auto;
+}
+
+.breadcrumb{
+    color: #565959 ;
+    font-size: small;
+}
+
+.links{
+    color: #007185 ;
+}
